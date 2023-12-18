@@ -36,28 +36,28 @@ ASSETS/
 		oneshot.wav
 		
 		main/ 
-			hotspot\[001-xxx].png
+			hotspot[001-xxx].png
 			
 		opposite/
-			hotspot\[001-xxx].png 
+			hotspot[001-xxx].png 
 			
 	hotspot02/
 		oneshot.wav
 		
 		main/ 
-			hotspot\[001-xxx].png
+			hotspot[001-xxx].png
 			
 		opposite/
-			hotspot\[001-xxx].png 
+			hotspot[001-xxx].png 
 		
 	hotspot03/
 		oneshot.wav
 		
 		main/ 
-			hotspot\[001-xxx].png
+			hotspot[001-xxx].png
 			
 		opposite/
-			hotspot\[001-xxx].png 
+			hotspot[001-xxx].png 
 		
 ```
 
