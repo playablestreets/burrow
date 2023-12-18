@@ -7,7 +7,7 @@ Machines communicate over OSC.  One camera/sensor per machine.
  
 - 2 IR cameras
 
-##Outputs:
+## Outputs:
  
 - 3 projection mapped HD video outputs
 - 1 GUI Window
