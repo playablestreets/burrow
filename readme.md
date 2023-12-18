@@ -13,4 +13,39 @@ Machines communicate over OSC.  One camera/sensor per machine.
 - 1 GUI Window
 - Stereo audio
 
+## Assets
+
+Assets required in ASSETS folder in root of this repository and structured as below:
+
+```
+ASSETS/
+	black.png
+	mask main.png
+	mask opposite.png
+
+	idle/
+		idle-main.mp4
+		idle-opposite.mp4  
+		
+	active/
+		active-main.mp4
+		active-opposite.mp4  
+		active.wav
+		
+	hotspot01/
+		oneshot.wav
+		
+		main/ 
+			hotspot\[001-xxx].png
+			
+		opposite/
+			hotspot\[001-xxx].png 
+			
+	hotspot02/
+		etc...
+		
+	hotspot03/
+		etc...
+		
+```
 
