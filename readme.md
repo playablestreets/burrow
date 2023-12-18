@@ -42,10 +42,22 @@ ASSETS/
 			hotspot\[001-xxx].png 
 			
 	hotspot02/
-		etc...
+		oneshot.wav
+		
+		main/ 
+			hotspot\[001-xxx].png
+			
+		opposite/
+			hotspot\[001-xxx].png 
 		
 	hotspot03/
-		etc...
+		oneshot.wav
+		
+		main/ 
+			hotspot\[001-xxx].png
+			
+		opposite/
+			hotspot\[001-xxx].png 
 		
 ```
 
