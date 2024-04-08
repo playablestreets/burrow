@@ -1,5 +1,7 @@
 # BURROW
 
+![burrow diagram](CPA001_CAA_BUR System Diagram.png)
+
 Runs as two TD projects across one or two machines.  
 Machines communicate over OSC.  One camera/sensor per machine.
 
